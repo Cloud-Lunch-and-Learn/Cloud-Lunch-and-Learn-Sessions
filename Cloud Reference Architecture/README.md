@@ -1,0 +1,3 @@
+# Cloud Reference Architectures
+
+This reference architectures walks you through the decision-making process involved in designing, developing, and delivering applications using Azure services to meet your business needs. You will be given hands-on instructions for configuring and deploying all of the architecture's components, with helpful information about each component along the way. The goal is to provide you with practical hands-on experience in working with several Azure services and the technologies that effectively use them in a cohesive and unified way to build your applications on Azure, using the related architecture according to your application type and meet your business needs.
